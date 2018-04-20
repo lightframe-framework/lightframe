@@ -8,6 +8,20 @@
     src: url("https://schedule-dash.github.io/9651.ttf");
 }
 
-html {
+head {
   font-family: San Francisco;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Просто ссылка */
+A:link  {
+  color: cornflowerblue;
+}
+
+/* Просмотренная ссылка */
+A:visited {
+  color: blueviolet;
 }
