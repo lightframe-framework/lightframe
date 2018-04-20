@@ -1,0 +1,13 @@
+/* 
+    Lightfame Web Framework
+    (c) 2018, Schedule Dash Team
+*/
+
+@font-face {
+    font-family: San Francisco;
+    src: url("https://schedule-dash.github.io/9651.ttf");
+}
+
+html {
+  font-family: San Francisco;
+}
