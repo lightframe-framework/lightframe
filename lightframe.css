@@ -49,3 +49,20 @@ h5 {
 h6 {
   font-size: 10px;
 }
+
+.small {
+  font-size: 12px;
+}
+
+.blockquote {
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+}
+
+p{
+  font-size: 16px;
+}
+
+.minip{
+    font-size: 13px;
+}
