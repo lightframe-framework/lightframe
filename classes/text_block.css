@@ -1,16 +1,16 @@
-.mark-blue {
+.mark_blue {
     font-size: 20px;
     border-radius: 0.5px;
     background-color: cornflowerblue;
 }
 
-.mark-red {
+.mark_red {
     font-size: 20px;
     border-radius: 0.5px;
     background-color: indianred;
 }
 
-.mark-yellow {
+.mark_yellow {
     font-size: 20px;
     border-radius: 0.5px;
     background-color: khaki; 
