@@ -92,7 +92,7 @@ p{
     text-shadow: 2px 4px;
 }
 
-button_green{
+.button_green{
   color: #fff;
   text-decoration: none;
   user-select: none;
@@ -100,5 +100,5 @@ button_green{
   padding: .7em 1.5em;
   outline: none;
 } 
-button_green:hover { background: rgb(232,95,76); }
-button_green:active { background: rgb(152,15,0); }
+.button_green:hover { background: rgb(232,95,76); }
+.button_green:active { background: rgb(152,15,0); }
