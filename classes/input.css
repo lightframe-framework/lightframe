@@ -57,7 +57,14 @@ input {
   font-family: San Francisco;
   font-size: 20px;    
 }                
-                
+         
+.input[type=combobox] {
+    text-align: center;
+    text-size: 25px;
+    height: 30px;
+    width: 100px auto;
+}
+
 ::-webkit-input-placeholder,
 :-moz-placeholder,
 ::-moz-placeholder,
