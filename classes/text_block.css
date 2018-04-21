@@ -1,28 +1,41 @@
-.mark {
+
+.mark_blue{
     font-size: 20px;
     border-radius: 3.5px;
     text-margin: 3px;
     padding-right: 3px;
     padding-left: 3px;
     color: aliceblue;
-}
-.mark_blue{
-    @extend .mark;
     background: cornflowerblue;
 }
 
 .mark_red {
-    @extend .mark;
+    font-size: 20px;
+    border-radius: 3.5px;
+    text-margin: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
+    color: aliceblue;
     background: indianred;
 }
 
 .mark_yellow {
-    @extend .mark;
+    font-size: 20px;
+    border-radius: 3.5px;
+    text-margin: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
+    color: aliceblue;
     background: goldenrod;
 }
 
 .mark_green{
-    @extend .mark;
+    font-size: 20px;
+    border-radius: 3.5px;
+    text-margin: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
+    color: aliceblue;
     background: forestgreen;
 }
 
