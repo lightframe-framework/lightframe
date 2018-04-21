@@ -2,6 +2,7 @@
     font-size: 20px;
     border-radius: 3.5px;
     text-margin: 3px;
+    color: aliceblue;
     background: cornflowerblue;
 }
 
@@ -9,6 +10,7 @@
     font-size: 20px;
     border-radius: 3.5px;
     text-margin: 3px;
+    color: aliceblue;
     background: indianred;
 }
 
@@ -16,7 +18,8 @@
     font-size: 20px;
     border-radius: 3.5px;
     text-margin: 3px;
-    background: khaki; 
+    color: aliceblue;
+    background: goldenrod;
 }
 
 .quoteblock {
