@@ -1,0 +1,17 @@
+.mark-blue{
+    font-size: 20px;
+    border-radius: 0.5px;
+    background-color: cornflowerblue;
+}
+
+.mark-red{
+    font-size: 20px;
+    border-radius: 0.5px;
+    background-color: indianred;
+}
+
+.mark-yellow{
+    font-size: 20px;
+    border-radius: 0.5px;
+    background-color: khaki; 
+}
