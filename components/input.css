@@ -5,7 +5,7 @@
   display: block;
   outline: none;
   width: 400px;
-  height: 30p;
+  height: 30px;
   top: 250px;
   margin: 0 auto;
   padding: 10px;
@@ -21,7 +21,7 @@
   border: none;
   outline: none;
   width: 400px;
-  height: 30p;
+  height: 30px;
   top: 250px;
   margin: 0 auto;
   padding: 10px;
@@ -32,10 +32,10 @@
   font-size: 20px;    
 }                
                 
-::-webkit-input-placeholder { color: #666;} 
-:-moz-placeholder { color: #666; }
-::-moz-placeholder { color: #666; }
-:-ms-input-placeholder { color: #666; }             
+::-webkit-input-placeholder, 
+::-moz-placeholder,
+::-moz-placeholder,
+::-ms-input-placeholder { color: #666; }             
 
 .largeInput {
     font-size: 30px;
