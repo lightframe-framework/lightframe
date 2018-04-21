@@ -1,0 +1,24 @@
+/*
+    sizes.css
+    
+    (c) 2018, Lightframe Web Framework
+    github.com/schedule-dash/lightframe
+*/
+
+.smallSize {
+    font-size: 20px;
+}
+
+.normalSize {
+    font-size: 30px;
+}
+
+.largeSize {
+    font-size: 40px;
+}   
+
+/* Large Input */
+
+.lgInput {
+    font-size: 30px;
+} 

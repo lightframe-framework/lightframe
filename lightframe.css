@@ -1,86 +1,9 @@
-/* 
-    Lightfame Web Framework
-    (c) 2018, Schedule Dash Team
+/*
+    (c) 2018, Lightframe Web Framework
+    github.com/schedule-dash/lightframe    
 */
 
-@font-face {
-    font-family: San Francisco;
-    src: url("https://schedule-dash.github.io/9651.ttf");
-}
-body {
-  font-family: San Francisco;
-}
-
-a {
-  text-decoration: none;
-}
-
-/* Просто ссылка */
-A:link  {
-  color: cornflowerblue;
-}
-
-/* Просмотренная ссылка */
-A:visited {
-  color: blueviolet;
-}
-
-/* H1 до H6 */
-h1 {
-  font-size: 60px;
-}
-
-h2 {
-  font-size: 50px;    
-}
-
-h3 {
-  font-size: 40px;
-}
-
-h4, p {
-  font-size: 30px;
-}
-
-h5 {
-  font-size: 20px;    
-}
-
-h6 {
-  font-size: 10px;
-}
-
-/* Незначительные изменения */
-.small {
-  font-size: 12px;
-}
-
-.blockquote {
-  margin-bottom: 1rem;
-  font-size: 1.25rem;
-}
-
-p {
-  font-size: 16px;
-}
-
-.minimal {
-    font-size: 13px;
-}
-
-/* Код */
-.code {
-  padding: .2rem .5rem;
-  margin: 0 .2rem;
-  font-size: 90%;
-  white-space: nowrap;
-  background: #F1F1F1;
-  border: 1px solid #E1E1E1;
-  border-radius: 4px;
-}
-
-/* Улучшенный заголовок с тенями*/
-.header {
-    font-size: 2rem;
-    text-shadow: 2px 4px;
-}
+@import "classes/button.css";
+@import "classes/main.css";
+@import "classes/sizes.css";
+@import "classes/input.css";
