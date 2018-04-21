@@ -86,7 +86,7 @@ p {
 }
 
 /* Кнопка */
-.button_green {
+.button {
   color: #fff;
   text-decoration: none;
   user-select: none;
@@ -95,5 +95,5 @@ p {
   outline: none;
 } 
 
-.button_green:hover { background: rgb(232,95,76); }
-.button_green:active { background: rgb(152,15,0); }
+.button:hover { background: rgb(232,95,76); }
+.button:active { background: rgb(152,15,0); }
