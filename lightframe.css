@@ -97,3 +97,10 @@ p {
 
 .button:hover { background: rgb(232,95,76); }
 .button:active { background: rgb(152,15,0); }
+
+.spoiler >  input + .box {
+	display: none;
+}
+.spoiler >  input:checked + .box {
+	display: block;
+}
