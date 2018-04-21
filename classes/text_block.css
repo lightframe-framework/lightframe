@@ -1,26 +1,26 @@
 .mark_blue {
     font-size: 20px;
     border-radius: 0.5px;
-    background-color: cornflowerblue;
+    background: cornflowerblue;
 }
 
 .mark_red {
     font-size: 20px;
     border-radius: 0.5px;
-    background-color: indianred;
+    background: indianred;
 }
 
 .mark_yellow {
     font-size: 20px;
     border-radius: 0.5px;
-    background-color: khaki; 
+    background: khaki; 
 }
 
 .quoteblock {
     font-family:San Francisco;
     font-size: 25px;
     font-style: oblique;
-    background-color: ghostwhite;
+    background: ghostwhite;
     border: 1px solid darkgray;
     border-radius: 0.5px;
 }
