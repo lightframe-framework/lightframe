@@ -84,11 +84,3 @@ p {
     font-size: 2rem;
     text-shadow: 2px 4px;
 }
-
-/* Спойлер */
-.spoiler >  input + .box {
-	display: none;
-}
-.spoiler >  input:checked + .box {
-	display: block;
-}
