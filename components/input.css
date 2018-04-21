@@ -1,0 +1,42 @@
+.centerinput {
+  background: rgba(255,255,255,0.4);
+  border: none;
+  position: relative;
+  display: block;
+  outline: none;
+  width: 400px;
+  height: 30p;
+  top: 250px;
+  margin: 0 auto;
+  padding: 10px;
+  color: #333;
+  -webkit-box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+  box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+  font-family: San Francisco;
+  font-size: 20px;
+}
+
+.input {
+  background: rgba(255,255,255,0.4);
+  border: none;
+  outline: none;
+  width: 400px;
+  height: 30p;
+  top: 250px;
+  margin: 0 auto;
+  padding: 10px;
+  color: #333;
+  -webkit-box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+  box-shadow: 0 2px 10px 1px rgba(0,0,0,0.5);
+  font-family: San Francisco;
+  font-size: 20px;    
+}                
+                
+::-webkit-input-placeholder { color: #666;} 
+:-moz-placeholder { color: #666; }
+::-moz-placeholder { color: #666; }
+:-ms-input-placeholder { color: #666; }             
+
+.largeInput {
+    font-size: 30px;
+}        
