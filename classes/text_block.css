@@ -1,18 +1,21 @@
 .mark_blue {
     font-size: 20px;
-    border-radius: 0.5px;
+    border-radius: 3.5px;
+    text-margin: 3px;
     background: cornflowerblue;
 }
 
 .mark_red {
     font-size: 20px;
-    border-radius: 0.5px;
+    border-radius: 3.5px;
+    text-margin: 3px;
     background: indianred;
 }
 
 .mark_yellow {
     font-size: 20px;
-    border-radius: 0.5px;
+    border-radius: 3.5px;
+    text-margin: 3px;
     background: khaki; 
 }
 
