@@ -31,12 +31,14 @@
   font-family: San Francisco;
   font-size: 20px
 }
+
 ::-webkit-input-placeholder,
 ::-moz-placeholder,
 ::-ms-input-placeholder
 {
   color: #666;
 }
+
 .largeInput {
   font-size: 30px;
 }
