@@ -79,7 +79,10 @@
 }
 
 .tip .tipbox {
-    visibility: hidden;
+    opacity: 0;
+    transition: opacity 1s;
+    -webkit-transition: opacity 1s;
+    --moz-webkit-transition: opacity 1s;
     width: 100px auto;
     background: #1a1a1a;
     color: #fff;
@@ -91,5 +94,5 @@
 }
 
 .tip:hover .tipbox {
-    visibility: visible;
+    opacity: 1;
 }
