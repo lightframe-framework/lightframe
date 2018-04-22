@@ -71,3 +71,25 @@
     color: #1a1a1a;
     background: #fff2e6;
 }
+
+.tip {
+    font-style: bold;
+    position: relative;
+    display: inline-block;
+}
+
+.tip .tipbox {
+    visibility: hidden;
+    width: 100px auto;
+    background: #1a1a1a;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 5px;
+    position: absolute;
+    z-index: 1;
+}
+
+.tip:hover .tipbox {
+    visibility: visible;
+}
