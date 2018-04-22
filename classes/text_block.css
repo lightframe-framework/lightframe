@@ -96,3 +96,9 @@
 .tip:hover .tipbox {
     opacity: 1;
 }
+
+t {
+    line-height: 1.5;
+    color: #222222;
+    font-size: 22px;
+}
