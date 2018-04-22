@@ -5,7 +5,7 @@
     github.com/schedule-dash/lightframe
 */
 
-.mark_blue{
+.mark_blue {
     font-size: 20px;
     border-radius: 3.5px;
     text-margin: 3px;
@@ -35,7 +35,7 @@
     background: goldenrod;
 }
 
-.mark_green{
+.mark_green {
     font-size: 20px;
     border-radius: 3.5px;
     text-margin: 3px;
@@ -52,4 +52,23 @@
     background: ghostwhite;
     border: 1px solid darkgray;
     border-radius: 0.5px;
+}
+
+.textbox {
+    overflow: scroll;
+    font-size: 20px;
+    padding: 3.5px;
+    border: 1px solid #333333;
+    color: #1a1a1a;
+    background-color: #eee;
+}
+
+.textbox-caption {
+    font-size: 25px;
+    text-align: center;
+    padding: 2px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    color: #1a1a1a;
+    background: #fff2e6;
 }
