@@ -102,3 +102,10 @@ t {
     color: #222222;
     font-size: 22px;
 }
+
+h {
+		font-size: 30px;
+		text-align: center;
+		display: inline-block;
+		width: 100%;
+}
