@@ -38,7 +38,7 @@ h3 {
   font-size: 40px;
 }
 
-h4, p {
+h4 {
   font-size: 30px;
 }
 
@@ -60,11 +60,12 @@ p {
 }
 
 code {
-  padding: .2rem .5rem;
-  margin: 0 .2rem;
-  font-size: 90%;
-  white-space: nowrap;
-  background: #F1F1F1;
-  border: 1px solid #E1E1E1;
-  border-radius: 4px;
+    display: block;
+	padding: .2rem .5rem;
+	font-size: 90%;
+	white-space: nowrap;
+	background: #F1F1F1;
+	border: 1px solid #E1E1E1;
+	border-radius: 4px;
+	overflow: hidden;
 }
