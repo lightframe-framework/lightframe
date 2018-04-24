@@ -60,7 +60,7 @@ p {
 }
 
 code {
-    display: block;
+        display: block;
 	padding: .2rem .5rem;
 	font-size: 90%;
 	white-space: nowrap;
